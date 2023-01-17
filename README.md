@@ -18,4 +18,4 @@ An software architecture will impose implementation constraints which is a benef
 
 Software architecture will aid in preventing software decay over time by imposing a structure that developers can follow while maintaining the code base.
 
-Proper but also not to extensive software architecture documentation makes it faster for new team member to get up to speed and be able to contribute to the project.
+Proper but also not too extensive software architecture documentation makes it faster for new team member to get up to speed and be able to contribute to the project.
